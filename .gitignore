@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data 
+data/processed/
+
+# Generated Files
+*.pdf
+*.jpg
+
+# Ignore large/extra models
+models/
+
+# IDE / Editor
+.vscode/
+.idea/
