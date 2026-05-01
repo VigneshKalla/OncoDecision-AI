@@ -148,8 +148,7 @@ The three models are applied sequentially. The regression model is only invoked 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VigneshKalla/Blood-Cancer-AI-System-Detection-Severity-Cost-Prediction-India-.git
-cd blood-cancer-ai-system
+git clone https://github.com/VigneshKalla/OncoDecision-AI.git
 ```
 
 2. Create and activate a virtual environment:
